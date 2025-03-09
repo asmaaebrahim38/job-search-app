@@ -84,4 +84,4 @@ A Postman collection is available for testing API endpoints. You can import the 
 
 You can find postman collections [_here_](./job-search-app.postman_collection.json)
 
-The bouns file is [_here_](./bouns.js)
+The bouns file is [_here_](./bonus.js)
