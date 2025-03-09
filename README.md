@@ -83,3 +83,5 @@ src/
 A Postman collection is available for testing API endpoints. You can import the collection into Postman for easy access to API requests.
 
 You can find postman collections [_here_](./job-search-app.postman_collection.json)
+
+The bouns file is [_here_](./bouns.js)
