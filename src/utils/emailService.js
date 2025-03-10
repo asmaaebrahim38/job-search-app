@@ -18,7 +18,7 @@ export const sendOTPEmail = async (email, otp) => {
   });
 };
 
-export const sendEmail = async () => {
+export const sendEmail = async ({ to, subject, html }) => {
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
